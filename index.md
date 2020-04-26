@@ -14,3 +14,4 @@ A Angélica abre o canal com uma breve introdução sobre metodologias de análi
 
 👉🏻 https://www.gurobi.com/company/about-gurobi/prescriptive-analytics/
 
+### 1 Video
