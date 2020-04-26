@@ -8,10 +8,10 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 A Angélica abre o canal com uma breve introdução sobre metodologias de análise de dados #datascience #estudos #analisededados
 
-👉🏻 https://www.reamp.com.br/blog/2017/07/voce-conhece-quais-sao-os-tipos-de-dados-existentes/ 
+👉🏻 [https://www.reamp.com.br/blog/2017/07/voce-conhece-quais-sao-os-tipos-de-dados-existentes/ ]
 
-👉🏻 https://studyonline.unsw.edu.au/blog/descriptive-predictive-prescriptive-analytics 
+👉🏻 [https://studyonline.unsw.edu.au/blog/descriptive-predictive-prescriptive-analytics ]
 
-👉🏻 https://www.gurobi.com/company/about-gurobi/prescriptive-analytics/
+👉🏻 [https://www.gurobi.com/company/about-gurobi/prescriptive-analytics/]
 
 ### 1 Video
