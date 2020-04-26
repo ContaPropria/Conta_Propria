@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Vídeos
 
-You can use the [editor on GitHub](https://github.com/AngelicaCaseri/teste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Já imaginou aprender tudo (tudo mesmo) sobre ciência dos dados sem sair de casa e sem custo?
+Duas engenheiras, uma empreendora e uma phD compraram essa briga e vão te ensinar como aprender, de forma autodidata, desde o mais básico até inteligência artificial.
+Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 ### Markdown
 
