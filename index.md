@@ -1,7 +1,7 @@
 ## Introdução
 
 Já imaginou aprender tudo (tudo mesmo) sobre ciência dos dados sem sair de casa e sem custo?
-Duas engenheiras, uma empreendora e uma phD compraram essa briga e vão te ensinar como aprender, de forma autodidata, desde o mais básico até inteligência artificial.
+Duas engenheiras, uma empreendora e uma phD compraram essa briga e vão te ensinar como aprender, de forma autodidata, desde o mais básico até inteligência artificial e colocando tudo isso na prática!
 Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 ### Vídeo 1 - A importância dos dados
