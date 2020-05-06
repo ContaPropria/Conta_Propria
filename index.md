@@ -4,6 +4,9 @@ Já imaginou aprender tudo (tudo mesmo) sobre ciência dos dados sem sair de cas
 Duas engenheiras, uma empreendora e uma phD compraram essa briga e vão te ensinar como aprender, de forma autodidata, desde o mais básico até inteligência artificial e colocando tudo isso na prática!
 Vai perder? Não vai né! Te esperamos nos próximos videos.
 
+###Posts
+[Teste](https://contapropria.github.io/Conta_Propria/Posts)
+
 ### Vídeo 1 - A importância dos dados
 
 A Angélica abre o canal com uma breve introdução sobre metodologias de análise de dados #datascience #estudos #analisededados
