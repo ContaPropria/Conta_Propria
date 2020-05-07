@@ -30,7 +30,7 @@ Quer saber mais sobre? Seguem links para estudos:
 
 👉🏻 [Inglês: Predictive Analysis link 1](https://medium.com/my-data-camp-journey/predictive-analysis-in-python-97ca5b64e97f)
 
-[Inglês:Predictive Analysis link 2](https://towardsdatascience.com/predictive-analytics-predicting-consumer-behavior-with-data-analytics-8ca51abb8dc2)
+👉🏻 [Inglês:Predictive Analysis link 2](https://towardsdatascience.com/predictive-analytics-predicting-consumer-behavior-with-data-analytics-8ca51abb8dc2)
 
 👉🏻 [Exemplo de Aplicação: Análise Preditiva](https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-1-8e3ddc3d7008)
 
