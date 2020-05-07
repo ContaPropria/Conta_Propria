@@ -1,6 +1,9 @@
 ## Posts
 
-### Machine Learning: Aprendizado Supervisionado
+Encontre aqui os links para estudo e aprofundamente das postagens que você mais gostou do canal [Conta_Propria!](https://www.instagram.com/conta_propria/?hl=pt-br)
+
+
+### Machine Learning: Aprendizado Supervisionado (29/04/2020)
 Uma empresa quer prever se o seu cliente irá comprar o produto A ou B. Para treinar o modelo, será utilizado uma base histórica de dados que possui, como uma das suas informações, quais produtos foram comprados no passado. Exemplo de modelo de Classificação!
 
 Quer saber mais sobre? Seguem links para estudo:
