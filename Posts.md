@@ -3,6 +3,7 @@
 Encontre aqui os links para estudo e aprofundamente das postagens que você mais gostou do canal [Conta_Propria!](https://www.instagram.com/conta_propria/?hl=pt-br)
 
 
+
 ### Machine Learning: Aprendizado Supervisionado (29/04/2020)
 Uma empresa quer prever se o seu cliente irá comprar o produto A ou B. Para treinar o modelo, será utilizado uma base histórica de dados que possui, como uma das suas informações, quais produtos foram comprados no passado. Exemplo de modelo de Classificação!
 
@@ -33,9 +34,7 @@ Quer saber mais sobre? Seguem links para estudo:
 Média, mediana e moda são medições utilizadas para identificar a tendência de um conjunto de dados.
 
 • Média: é definida como a razão entre a soma de todas as observações e o número total de observações.
-
 • Mediana: é o ponto que divide os dados em duas partes iguais. A mediana é calculada organizando primeiro os dados em ordem crescente ou decrescente.
-
 • Moda: é o valor que aparece com maior frequência no conjunto de dados. Se nenhum número na lista repetir, então, não haverá moda.
 
 Quer saber mais sobre? Seguem links para estudo:
@@ -53,9 +52,7 @@ O entendimento do tipo de dados que você está lidando é crucial para realizar
 CATEGÓRICOS (representam características) - Nominal: os dados nominais representam unidades discretas e são usados para rotular variáveis que não possuem valor quantitativo. Ex: masculino, feminino.
 
 • Ordinal: os dados ordinais representam unidades discretas e ordenadas. Ex: escolaridade (1o, 2o, 3o graus). NUMÉRICOS (quantitativos)
-
 • Contínuo: os dados contínuos representam medições. Ex: altura de uma pessoa.
-
 • Discreto: os dados discretos representam valores finitos, enumeráveis. Ex: número de filhos.
 
 Quer sabe mais sobre? Segue links para estudo:
