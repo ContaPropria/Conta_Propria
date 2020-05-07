@@ -17,8 +17,12 @@ Quer saber mais sobre? Seguem links para estudo:
 
 ### Gráficos de barras, quando utilizar? (27/04/2020)
 Parece básico, mas os gráficos de barras são uma das ferramentas mais utilizadas na análise de dados, e muita gente não sabe o potencial destes gráficos ainda. Eles consistem em dois eixos. Em um gráfico de barra vertical, como mostrado acima, o eixo horizontal (ou eixo x) mostra as categorias de dados.
-Os gráficos de barra possuem três atributos principais: • Um diagrama de barras facilita a comparação rápida de conjuntos de dados entre diferentes grupos.
+Os gráficos de barra possuem três atributos principais: 
+
+• Um diagrama de barras facilita a comparação rápida de conjuntos de dados entre diferentes grupos.
+
 • O gráfico representa categorias em um eixo e um valor discreto no outro. O objetivo é mostrar a relação entre os dois eixos.
+
 • Os gráficos de barras também podem mostrar grandes alterações nos dados ao longo do tempo.
 
 Quer saber mais sobre? Seguem links para estudo:
@@ -34,7 +38,9 @@ Quer saber mais sobre? Seguem links para estudo:
 Média, mediana e moda são medições utilizadas para identificar a tendência de um conjunto de dados.
 
 • Média: é definida como a razão entre a soma de todas as observações e o número total de observações.
+
 • Mediana: é o ponto que divide os dados em duas partes iguais. A mediana é calculada organizando primeiro os dados em ordem crescente ou decrescente.
+
 • Moda: é o valor que aparece com maior frequência no conjunto de dados. Se nenhum número na lista repetir, então, não haverá moda.
 
 Quer saber mais sobre? Seguem links para estudo:
@@ -52,7 +58,9 @@ O entendimento do tipo de dados que você está lidando é crucial para realizar
 CATEGÓRICOS (representam características) - Nominal: os dados nominais representam unidades discretas e são usados para rotular variáveis que não possuem valor quantitativo. Ex: masculino, feminino.
 
 • Ordinal: os dados ordinais representam unidades discretas e ordenadas. Ex: escolaridade (1o, 2o, 3o graus). NUMÉRICOS (quantitativos)
+
 • Contínuo: os dados contínuos representam medições. Ex: altura de uma pessoa.
+
 • Discreto: os dados discretos representam valores finitos, enumeráveis. Ex: número de filhos.
 
 Quer sabe mais sobre? Segue links para estudo:
