@@ -7,6 +7,8 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 ### Posts do canal
 [Acesso aos links das postagens](https://contapropria.github.io/Conta_Propria/Posts)
 
+🎬🎬🎬
+
 ### Vídeo 6 - Análise Prescritiva
 
 A Análise prescritiva responde às perguntas: O que deve ser feito? Quais ações devem ser tomadas? Ela vai além da análise descritiva e preditiva, além de você detectar padrões, comportamentos, realizar previsões, você utiliza estas informações para tomada de decisão. A análise prescritiva apresenta desafios únicos. Ela pode te ajudar a identificar decisões estratégicas orientadas a dados!
