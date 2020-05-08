@@ -9,6 +9,18 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 🎬🎬🎬
 
+### Vídeo 7 - Transformação Digital
+
+Vamos falar um pouquinho sobre transformação digital e como a inteligência artificial é importante nesse processo. Ao longo do vídeo, falamos das três análises expostas anteriormente: descritiva, preditiva e prescritiva.
+
+Quer saber mais sobre? Seguem links para estudos:
+
+👉🏻 [Digital Transformation And The AI Advantage](https://www.digitalistmag.com/cio-knowledge/2019/07/23/digital-transformation-ai-advantage-06199626)
+
+👉🏻 [Strategy, Not Technology, Drives DigitalL Transformation](https://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/)
+
+👉🏻 [3 ways AI can aid Digital Transformation](https://towardsdatascience.com/3-ways-ai-aids-digital-transformation-4a5965708c45)
+
 ### Vídeo 6 - Análise Prescritiva
 
 A Análise prescritiva responde às perguntas: O que deve ser feito? Quais ações devem ser tomadas? Ela vai além da análise descritiva e preditiva, além de você detectar padrões, comportamentos, realizar previsões, você utiliza estas informações para tomada de decisão. A análise prescritiva apresenta desafios únicos. Ela pode te ajudar a identificar decisões estratégicas orientadas a dados!
