@@ -9,6 +9,9 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 🎬🎬🎬
 
+###Exemplos no python (Hands On)
+[Acesso ao repositorio](https://github.com/ContaPropria/Python)💻 🤖💻
+
 ### Vídeo 7 - Transformação Digital
 
 Vamos falar um pouquinho sobre transformação digital e como a inteligência artificial é importante nesse processo. Ao longo do vídeo, falamos das três análises expostas anteriormente: descritiva, preditiva e prescritiva.
