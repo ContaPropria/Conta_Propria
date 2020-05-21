@@ -9,7 +9,7 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 🎬🎬🎬
 
-###Exemplos no python (Hands On)
+### Exemplos no python (Hands On)
 [Acesso ao repositorio](https://github.com/ContaPropria/Python)💻 🤖💻
 
 ### Vídeo 7 - Transformação Digital
