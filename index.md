@@ -19,11 +19,11 @@ Cientista de dados, você sabe o que ele faz? Qual o papel dele na criação de 
 Você tem interesse em aprender mais sobre?
 Seguem links:
 
-👉[Free Courses Data Science] (https://pt.coursera.org/courses?query=free%20courses%20data%20science)
+👉🏻 [Free Courses Data Science](https://pt.coursera.org/courses?query=free%20courses%20data%20science)
 
-👉[The 9 Best Free Online Big Data And Data Science Courses](https://www.google.com.br/amp/s/www.forbes.com/sites/bernardmarr/2017/06/06/the-9-best-free-online-big-data-and-data-science-courses/amp/)
+👉🏻 [The 9 Best Free Online Big Data And Data Science Courses](https://www.google.com.br/amp/s/www.forbes.com/sites/bernardmarr/2017/06/06/the-9-best-free-online-big-data-and-data-science-courses/amp/)
 
-👉[Datacamp Data Scientist with python] (https://www.datacamp.com/tracks/data-scientist-with-python)
+👉🏻 [Datacamp Data Scientist with python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 ### Vídeo 10 - SEO e Analytics
 
@@ -33,11 +33,11 @@ Utilizar ferramentas de marketing digital é essencial, pode ser o termômetro d
 Taguear os seus canais digitais, pode fazer a diferença do seu negócio.
 Se interessou sobre o assunto? Seguem links de aprofundamento:
 
-👉[TOP 10 BENEFITS OF GOOGLE ANALYTICS FOR YOUR BUSINESS](https://blog.apruve.com/10-benefits-of-google-analytics-for-business)
+👉🏻 [TOP 10 BENEFITS OF GOOGLE ANALYTICS FOR YOUR BUSINESS](https://blog.apruve.com/10-benefits-of-google-analytics-for-business)
 
-👉[Implantar o Google Analytics com o Gerenciador de tags](https://support.google.com/tagmanager/answer/6107124?hl=pt-BR)
+👉🏻 [Implantar o Google Analytics com o Gerenciador de tags](https://support.google.com/tagmanager/answer/6107124?hl=pt-BR)
 
-👉[Recomendações no TensorFlow: aplicar aos dados do Google Analytics](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-apply-to-analytics-data?hl=pt-br)
+👉🏻 [Recomendações no TensorFlow: aplicar aos dados do Google Analytics](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-apply-to-analytics-data?hl=pt-br)
 
 
 ### Vídeo 9 - Explorando os dados em Python
@@ -50,7 +50,7 @@ Principais etapas de um projeto de I.A
 Se você quer desenvolver o projeto ou um produto que envolva machine learning, você precisa ter em mente o Life Cycle Data Science. Ele é o segredo para o desenvolvimento de uma solução de machine learning com sucesso! Cada etapa é crucial para chegar na solução final.
 Ficou interessado? Seguem links para aprofundamento:
 
-👉[The Team Data Science Process lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
+👉🏻 [The Team Data Science Process lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
 
 
 ### Vídeo 7 - Transformação Digital
