@@ -1,6 +1,7 @@
 
 title: "Conta Propria"
 
-logo: /assets/logo.png
+#logo: /assets/logo.png
+logo: logo.png
 
 theme: jekyll-theme-minimal
