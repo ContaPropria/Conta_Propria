@@ -1,6 +1,6 @@
 ## Posts
 
-Encontre aqui os links para estudo e aprofundamente das postagens que você mais gostou do canal [D-4T4!](https://www.instagram.com/conta_propria/?hl=pt-br)
+Encontre aqui os links para estudo e aprofundamente das postagens que você mais gostou do canal [D-4T4!](https://www.instagram.com/d_4t4/channel/)
 
 📕📖📘
 
