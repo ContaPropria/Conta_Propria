@@ -15,6 +15,20 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 
 🎬🎬🎬
+
+### Vídeo 12 - O que é uma árvore de decisão?
+
+A árvore de decisão (TD) é um dos métodos de aprendizado supervisionado não parametrizável usado para problemas de classificação e regressão. O objetivo é criar um modelo que faça a previsão do valor de uma variável, aprendendo regras simples de decisão inferidas a partir das características das variáveis consideradas (features).
+
+Quer saber mais sobre? Seguem links:
+
+👉🏻 [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
+
+👉🏻 [Decision Tree In Python](https://towardsdatascience.com/decision-tree-in-python-b433ae57fb93)
+
+👉🏻 [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
+
+
 ### Vídeo 11 - O que faz um cientista de dados?
 
 Cientista de dados, você sabe o que ele faz? Qual o papel dele na criação de soluções de inteligência artificial?
