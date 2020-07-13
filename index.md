@@ -11,7 +11,7 @@ Vai perder? Não vai né! Te esperamos nos próximos videos.
 
 [Modelo de Classificação](https://github.com/ContaPropria/Classification_ML)
 
-[Modelo de Clusterizalção - Agrupamento](https://github.com/ContaPropria/Clustering)
+[Modelo de Clusterização - Agrupamento](https://github.com/ContaPropria/Clustering)
 
 
 🎬🎬🎬
