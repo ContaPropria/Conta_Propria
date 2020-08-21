@@ -4,6 +4,7 @@ Já imaginou aprender tudo (tudo mesmo) sobre ciência dos dados sem sair de cas
 Duas engenheiras, uma empreendora e uma phD compraram essa briga e vão te ensinar como aprender, de forma autodidata, desde o mais básico até inteligência artificial e colocando tudo isso na prática!
 Vai perder? Não vai né! Te esperamos nos próximos videos.
 
+Criadoras do canal: Angélica Nardo Caseri e Laira Barras de Almeida
 
 ### Exemplos no python (Hands On) 💻 🤖💻
 
